@@ -9,7 +9,7 @@ The script was written and tested in Python 3.7.4.
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/CountGitCommits.svg)](https://github.com/SeppPenner/CountGitCommits/issues)
 [![GitHub forks](https://img.shields.io/github/forks/SeppPenner/CountGitCommits.svg)](https://github.com/SeppPenner/CountGitCommits/network)
 [![GitHub stars](https://img.shields.io/github/stars/SeppPenner/CountGitCommits.svg)](https://github.com/SeppPenner/CountGitCommits/stargazers)
-[![GitHub license](https://img.shields.io/badge/license-AGPL-blue.svg)](https://raw.githubusercontent.com/SeppPenner/CountGitCommits/master/License.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://raw.githubusercontent.com/SeppPenner/CountGitCommits/master/License.txt)
 [![Known Vulnerabilities](https://snyk.io/test/github/SeppPenner/CountGitCommits/badge.svg)](https://snyk.io/test/github/SeppPenner/CountGitCommits) 
 
 ## Basic usage:
