@@ -3,7 +3,7 @@ CountGitCommits
 
 Script to show the number of git commits in a git repository.
 
-The script was written and tested in Python 3.8.3.
+The script was written and tested in Python 3.
 
 [![Build status](https://ci.appveyor.com/api/projects/status/qncsj3jskj666hya?svg=true)](https://ci.appveyor.com/project/SeppPenner/countgitcommits-i1phx)
 [![GitHub issues](https://img.shields.io/github/issues/SeppPenner/CountGitCommits.svg)](https://github.com/SeppPenner/CountGitCommits/issues)
